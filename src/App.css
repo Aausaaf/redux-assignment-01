@@ -36,3 +36,80 @@
     transform: rotate(360deg);
   }
 }
+.navbar
+{
+  width: 100%;
+  height: 8vh;
+  background-color: pink;
+  color: white;
+  font-weight: 750;
+
+  font-size: 2.3vw;
+ 
+}
+.navbar a{
+  text-decoration: none;
+  color: white;
+  margin: auto;
+  margin-right: 20vw;
+}
+input
+{
+  width: 30vw;
+  height: 4.6vh;
+  margin-left: 34.9vw;
+  border-radius: 0.2vw;
+}
+input::placeholder
+{
+  font-size: 1.5vw;
+  outline: none;
+  border: none;
+
+}
+.button
+{
+  width: 20vw;
+  height: 6vh;
+  background-color: pink;
+  outline: none;
+  border: none;
+  border-radius: 0.3vw;
+  margin-left: 40.9vw;
+  margin-top: 10vh;
+  font-size: 1.5vw;
+  font-weight: 550;
+  color: white;
+  cursor: pointer;
+
+
+}
+.button:hover
+{
+  color: bisque;
+}
+.header h1
+{
+  margin-left: 15vw;
+
+}
+.div1 h1
+{
+  margin-left: 15vw;
+}
+.buttons
+{
+  width: 7vw;
+  height: 4vh;
+  margin-left: 10vw;
+  margin-top: 5.5vh;
+  background-color: blueviolet;
+  color: white;
+  border: none;
+  border-radius: 0.2vw;
+  
+}
+.buttons:hover
+{
+  background-color: blue;
+}
